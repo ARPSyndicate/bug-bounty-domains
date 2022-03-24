@@ -1,0 +1,22 @@
+-1379982221	atlassian – bamboo	http://bamboo.scopely.io/
+-1379982221	atlassian – bamboo	http://dev-bamboo.scopely.io/
+-1379982221	atlassian – bamboo	https://bamboo.scopely.io/
+-1379982221	atlassian – bamboo	https://dev-bamboo.scopely.io/
+-305179312	atlassian – confluence	http://confluence.scopely.io/
+-305179312	atlassian – confluence	http://confluence.scopely.io:80/
+-305179312	atlassian – confluence	http://dev-confluence.scopely.io/
+-305179312	atlassian – confluence	http://dev-confluence.scopely.io:80/
+-305179312	atlassian – confluence	https://confluence.scopely.io/
+-305179312	atlassian – confluence	https://confluence.scopely.io:443/
+-305179312	atlassian – confluence	https://dev-confluence.scopely.io/
+-305179312	atlassian – confluence	https://dev-confluence.scopely.io:443/
+0	zero byte favicon	http://collector.logs.scopely.io:80/
+116323821	springboot	https://spinnaker.amgmt.scopely.io:8084/
+1772087922	asp.net favicon	http://infra.games.scopely.io:80/
+1772087922	asp.net favicon	https://infra.games.scopely.io:443/
+81586312	jenkins	http://gameplatform-jenkins.games.scopely.io:80/
+81586312	jenkins	https://gameplatform-jenkins.games.scopely.io:443/
+b0d1844949fe7dcdf210983feb285241	aspnet	http://infra.games.scopely.io:80/
+b0d1844949fe7dcdf210983feb285241	aspnet	https://infra.games.scopely.io:443/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://collector.logs.scopely.io:80/
+e71ed563d9c0742ee87ad93ec1a22238	springboot	https://spinnaker.amgmt.scopely.io:8084/

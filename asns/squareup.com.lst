@@ -1,0 +1,10 @@
+broadway.squareup.com AS15211 AS15211 - SQUARE, INC. US 74.122.186.0/24
+docs.connect.squareup.com AS15211 AS15211 - SQUARE INC. US 74.122.189.0/24
+identity-tokens.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+investors.squareup.com AS54113 AS54113 - FASTLY US 151.101.208.0/22
+non-disclosure.corp.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 44.224.0.0/11
+sdk.squareup.com AS15169 AS15169 - GOOGLE LLC US 35.190.0.0/16
+spiffe-oidc.squareup.com AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+squareup.com AS54113 AS54113 - FASTLY US 151.101.192.0/22
+xmstest.squareup.com AS54113 AS54113 - FASTLY US 151.101.0.0/22
+xmstest.squareup.com AS54113 AS54113 - FASTLY US 151.101.192.0/22

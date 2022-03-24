@@ -1,0 +1,23 @@
+-1132923558	ok-status	http://adjvendor.paypal.com/
+-1132923558	ok-status	http://adjvendor.paypal.com:80/
+-1132923558	ok-status	https://adjvendor.paypal.com/
+-1132923558	ok-status	https://adjvendor.paypal.com:443/
+-1249852061	microsoft outlook	http://autodiscover.paypal.com:80/
+-1249852061	microsoft outlook	http://autodiscover.tpa.paypal.com:80/
+-1249852061	microsoft outlook	http://o365a.paypal.com:80/
+-297069493	apache tomcat	http://safetyhub.paypal.com/
+-297069493	apache tomcat	http://safetyhub.paypal.com:80/
+-297069493	apache tomcat	https://safetyhub.paypal.com/
+-297069493	apache tomcat	https://safetyhub.paypal.com:443/
+0	zero byte favicon	http://credit.paypal.com:80/
+0	zero byte favicon	http://mail.paypal.com:80/
+0	zero byte favicon	https://credit.paypal.com:443/
+0	zero byte favicon	https://mail.paypal.com:443/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://adjvendor.paypal.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	http://adjvendor.paypal.com:80/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://adjvendor.paypal.com/
+7128409f34cb89e74edeec0ae7a39a0e	ok-status	https://adjvendor.paypal.com:443/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://credit.paypal.com:80/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	http://mail.paypal.com:80/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://credit.paypal.com:443/
+d41d8cd98f00b204e9800998ecf8427e	zero byte favicon	https://mail.paypal.com:443/

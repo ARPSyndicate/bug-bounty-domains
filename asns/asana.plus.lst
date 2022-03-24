@@ -1,0 +1,7 @@
+acc-qa.integrations.asana.plus AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+acc.asana.plus AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+auth.asana.plus AS14618 AS14618 - AMAZON.COM, INC. US 54.86.0.0/16
+msft-teams.asana.plus AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+outlook.asana.plus AS16509 AS16509 - AMAZON.COM, INC. US 54.230.160.0/22
+semgrep.asana.plus AS14618 AS14618 - AMAZON.COM, INC. US 3.224.0.0/12
+sfdc-auth-redirect.integrations.asana.plus AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22

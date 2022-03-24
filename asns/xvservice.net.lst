@@ -1,0 +1,30 @@
+brand.xvservice.net AS14061 AS14061 - DIGITALOCEAN, LLC US 161.35.48.0/20
+brand.xvservice.net AS14618 AS14618 - AMAZON.COM, INC. US 52.200.0.0/13
+builds.client.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+builds.dev.client.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+dogfood.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+fishtank.sys.xvservice.net AS396356 AS396356 - MAXIHOST LLC US 185.209.176.0/24
+fishtank.xvservice.net AS396356 AS396356 - MAXIHOST LLC US 185.209.176.0/24
+fleet.sec.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 18.138.0.0/15
+frontier-docs.xvservice.net AS14061 AS14061 - DIGITALOCEAN, LLC US 157.245.240.0/20
+frontier-docs.xvservice.net AS14618 AS14618 - AMAZON.COM, INC. US 34.192.0.0/12
+icinga-la-01.sys.xvservice.net AS396356 AS396356 - MAXIHOST LLC US 185.209.176.0/24
+icinga-nj-01.sys.xvservice.net AS54825 AS54825 - PACKET HOST, INC. US 147.75.96.0/22
+icinga-sfo-test.sys.xvservice.net AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 198.23.96.0/20
+icinga-wdc-01.sys.xvservice.net AS36351 AS36351 - SOFTLAYER TECHNOLOGIES INC. US 169.47.128.0/18
+metrics.tz.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
+metrics.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 3.132.0.0/14
+mirror.sys.xvservice.net AS62240 AS62240 - CLOUVIDER LIMITED GB 45.144.112.0/23
+octopus.sys.xvservice.net AS212238 AS212238 - DATACAMP LIMITED GB 138.199.39.0/24
+orgchart.it.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+ph-gp.it.xvservice.net AS4775 AS4775 - GLOBE TELECOM (GMCR,INC) PH 203.177.128.0/17
+pmgr.xvservice.net AS14618 AS14618 - AMAZON.COM, INC. US 54.144.0.0/14
+roc.tz.xvservice.net AS14618 AS14618 - AMAZON.COM, INC. US 3.208.0.0/12
+test.redteam.sec.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 18.188.0.0/16
+us-east-01.mirror.sys.xvservice.net AS212238 AS212238 - DATACAMP LIMITED GB 37.19.198.0/23
+us-east-02.mirror.sys.xvservice.net AS62240 AS62240 - CLOUVIDER LIMITED GB 45.144.112.0/23
+us-east.mirror.sys.xvservice.net AS62240 AS62240 - CLOUVIDER LIMITED GB 45.144.112.0/23
+vector.dev.iat.it.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 54.179.0.0/17
+vector.prd.iat.it.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 3.0.0.0/15
+www.xvpnltd.dev.iat.it.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+xvpnltd.dev.iat.it.xvservice.net AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22

@@ -1,0 +1,13 @@
+acceptatie.rest.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+auth.squadra.acc.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+auth.squadra.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+auth.supplier.acc.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+auth.supplier.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+hr.acc.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+hr.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.208.0/21
+rest.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.208.0.0/13
+squadra.acc.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 34.248.0.0/13
+squadra.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 52.30.0.0/15
+supplier.acc.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.226.28.0/22
+supplier.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 13.225.60.0/22
+testrest.restintergamma.nl AS16509 AS16509 - AMAZON.COM, INC. US 54.78.0.0/16

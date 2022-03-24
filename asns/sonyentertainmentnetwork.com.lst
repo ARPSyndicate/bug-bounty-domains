@@ -1,0 +1,12 @@
+api.d1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.d1-spint.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.e1-np.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.q1-pmgt.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.q1-pqa.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+api.q1-spint.sonyentertainmentnetwork.com AS33064 AS33064 - SONY MEDIA SOFTWARE AND SERVICES INC. US 173.230.200.0/21
+auth.api.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.5.224.0/20
+cdn-a.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.5.224.0/20
+ebm.email.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.33.238.0/24
+f.email.sonyentertainmentnetwork.com AS20940 AS20940 - AKAMAI INTERNATIONAL B.V. NL 23.33.238.0/24
+ltip.account.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES, INC. US 23.57.128.0/19
+store.sonyentertainmentnetwork.com AS16625 AS16625 - AKAMAI TECHNOLOGIES EUROPEAN AS US 23.5.224.0/20
