@@ -1,0 +1,7 @@
+https://flatex.gsmarkets.de [301] [GET] [text/html] [] [WebServer] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://link.email.gsmarkets.de [302] [GET] [text/html] [] [Apache] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://link.info.gsmarkets.de [302] [GET] [text/html] [] [Apache] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://qa.flatex.gsmarkets.de [401] [GET] [text/html] [401 Unauthorized] [WebServer] [vhost] [Basic] [118a489422be0c5ca0cecf3bb7903c7e]
+https://qa.gsmarkets.de [401] [GET] [text/html] [401 Unauthorized] [WebServer] [vhost] [Basic] [118a489422be0c5ca0cecf3bb7903c7e]
+https://www.gsmarkets.de [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Contentful,React] [4845143f30db1cb34d7a47cf7bf8c63e]
+https://www.gsmarkets.de [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Contentful,React] [5b0b79299f9dd24d17f994897e825e56]

@@ -1,0 +1,8 @@
+https://beta.gsmarkets.nl [301] [GET] [] [] [AkamaiGHost] [vhost] [d41d8cd98f00b204e9800998ecf8427e]
+https://link.email.gsmarkets.nl [302] [GET] [text/html] [] [Apache] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://link.info.gsmarkets.nl [302] [GET] [text/html] [] [Apache] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://preview.gsmarkets.nl [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Akamai,Contentful,React] [3c12eb2c68c05baca0c8cc6b88cfc840]
+https://preview.gsmarkets.nl [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Akamai,Contentful,React] [f1e6ea0b1cb482e01bb51b92a8d0e69d]
+https://qa.gsmarkets.nl [401] [GET] [text/html] [401 Unauthorized] [WebServer] [vhost] [Basic] [118a489422be0c5ca0cecf3bb7903c7e]
+https://www.gsmarkets.nl [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Akamai,Contentful,React] [252fb25a8f0d6ec7bba0baef967bad8e]
+https://www.gsmarkets.nl [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Akamai,Contentful,React] [e6c5ba22ebdd76a315971d0ed9a06b44]

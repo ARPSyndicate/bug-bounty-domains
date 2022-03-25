@@ -1,0 +1,8 @@
+https://huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://m.huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://projects.huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://search.huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://staging.m.huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://staging.www.huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]
+https://stories.huffingtonpost.com.au [301] [GET] [] [] [AmazonS3] [vhost] [cloudfront] [Amazon Cloudfront,Amazon S3,Amazon Web Services] [d41d8cd98f00b204e9800998ecf8427e]
+https://www.huffingtonpost.com.au [301] [GET] [] [] [lighttpd/1.4.55] [vhost] [cloudfront] [Amazon Cloudfront,Amazon Web Services,lighttpd] [d41d8cd98f00b204e9800998ecf8427e]

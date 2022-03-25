@@ -1,0 +1,8 @@
+https://classic.gs.de [200] [GET] [text/html] [Goldman Sachs - Zertifikate | Anleihen | Optionsscheine] [nginx] [vhost] [Nginx] [1a56403ea9d185f15837663994f387b7]
+https://classic.gs.de [200] [GET] [text/html] [Goldman Sachs - Zertifikate | Anleihen | Optionsscheine] [nginx] [vhost] [Nginx] [96d5914224d367204d40012db9a8b961]
+https://link.email.gs.de [302] [GET] [text/html] [] [Apache] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://link.info.gs.de [302] [GET] [text/html] [] [Apache] [Apache] [d41d8cd98f00b204e9800998ecf8427e]
+https://pib.gs.de [401] [GET] [text/html] [401 Authorization Required] [nginx] [Amazon ELB,Amazon Web Services,Basic,Nginx] [481905a1e2cd3034b6976bafb7a3abda]
+https://pib.gs.de [401] [GET] [text/html] [401 Authorization Required] [nginx] [Amazon ELB,Amazon Web Services,Basic,Nginx] [5886129b212ec5bacb28adbef5e5857f]
+https://www.gs.de [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Akamai,Contentful,React] [5fd0605bf0f01e445ce6581333cef217]
+https://www.gs.de [200] [GET] [text/html] [Loading] [WebServer] [vhost] [Akamai,Contentful,React] [652931e03ae345a58f12643da104182f]

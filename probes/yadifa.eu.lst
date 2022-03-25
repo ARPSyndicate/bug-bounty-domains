@@ -1,0 +1,8 @@
+http://mailinglists.yadifa.eu:8080 [301] [GET] [] [] [cloudflare] [vhost] [Cloudflare Network Error Logging] [d41d8cd98f00b204e9800998ecf8427e]
+http://mailinglists.yadifa.eu:8443 [400] [GET] [text/html] [400 The plain HTTP request was sent to HTTPS port] [cloudflare] [cd58783500d7fa3c58f88eb0ba22f4f8]
+https://cdn.yadifa.eu [200] [GET] [text/html] [HOME | YADIFA] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Drupal,PHP] [3dd2586e37151eae07682bd252ed8895]
+https://cdn.yadifa.eu [200] [GET] [text/html] [HOME | YADIFA] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Drupal,PHP] [dc4a02a11d5f818587ef4281097e4f03]
+https://mailinglists.yadifa.eu [301] [GET] [text/html] [301 Moved Permanently] [cloudflare] [vhost] [Cloudflare,Cloudflare Network Error Logging] [4aca7267b0b115304761467515104113]
+https://webstats.yadifa.eu [301] [GET] [text/html] [301 Moved Permanently] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging] [c4bea5914e81fbca94a0211352c862bd]
+https://www.yadifa.eu [200] [GET] [text/html] [HOME | YADIFA] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Drupal,PHP] [0a144f26cc817ad1b00ce95aa6a3c082]
+https://www.yadifa.eu [200] [GET] [text/html] [HOME | YADIFA] [cloudflare] [vhost] [cloudflare] [Cloudflare,Cloudflare Network Error Logging,Drupal,PHP] [915d71e5d5ccb43dc68208f662036cd2]
