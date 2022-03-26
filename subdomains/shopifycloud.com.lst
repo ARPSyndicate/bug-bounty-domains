@@ -1390,6 +1390,7 @@ cloud-portal-imagery-us-east1-3.shopifycloud.com
 cloud-portal-imagery-us-east1-5.shopifycloud.com
 cloud-portal-imagery-us-east1-6.shopifycloud.com
 cloud-portal-imagery-us-east1-7.shopifycloud.com
+cloud-portal-infra-sandbox-us-ea1-az75.shopifycloud.com
 cloud-portal-infra-sandbox-us-ea1-ps93.shopifycloud.com
 cloud-portal-management-staging-us-central1-3.shopifycloud.com
 cloud-portal-management-staging-us-central1-4.shopifycloud.com
@@ -3848,6 +3849,7 @@ flow-staging-web-ingress-tier4.shopifycloud.com
 flow-staging.shopifycloud.com
 flow-tracing-prototypes-2a4d.shopifycloud.com
 flow-tracing-prototypes.shopifycloud.com
+flow-trivia.shopifycloud.com
 flow-v2-web-production-unrestricted-web-apps-b-us-central1-2.shopifycloud.com
 flow-v2-web.shopifycloud.com
 flow-v2.shopifycloud.com
@@ -6818,10 +6820,16 @@ orchestrator.shopifycloud.com
 orchid.shopifycloud.com
 orderprinter-staging.shopifycloud.com
 orderprinter.shopifycloud.com
+org-admin-web-staging-1g8h.shopifycloud.com
 org-admin-web-staging-2.shopifycloud.com
 org-admin-web-staging-3.shopifycloud.com
 org-admin-web-staging-4.shopifycloud.com
 org-admin-web-staging-5.shopifycloud.com
+org-admin-web-staging-7won.shopifycloud.com
+org-admin-web-staging-c0n6.shopifycloud.com
+org-admin-web-staging-ezky.shopifycloud.com
+org-admin-web-staging-pz8w.shopifycloud.com
+org-admin-web-staging-sxyc.shopifycloud.com
 org-admin-web-staging.shopifycloud.com
 org-admin-web.shopifycloud.com
 organizations-prototype-sandbox.shopifycloud.com

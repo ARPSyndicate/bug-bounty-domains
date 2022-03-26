@@ -871,7 +871,7 @@ jzqutb2k.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.CO
 k144ht7q.stn010yul.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 3.96.0.0/15
 k2cjr5k6.cloudstation.eu-central-1.qa.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 18.192.0.0/15
 kaseya-ui.int010fra.ctr.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 54.230.160.0/22
-kaseya.int010fra.ctr.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 3.64.0.0/12
+kaseya.int010fra.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 18.184.0.0/15
 kaseya.int030fra.ctr.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 35.156.0.0/14
 kaseya.int100fra.ctr.sophos.com AS16509 AS16509 - AMAZON.COM, INC. US 35.156.0.0/14
 kdv2rabs.cloudstation.eu-west-1.dev.hydra.sophos.com AS16509 AS16509 - AMAZON.COM INC. US 63.32.0.0/14

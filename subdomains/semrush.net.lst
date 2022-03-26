@@ -613,6 +613,7 @@ pma.semrush.net
 prod-query-test.semrush.net
 prod.backend.kmt.semrush.net
 prod.kmt.semrush.net
+prod.kwm.semrush.net
 prod.static.kmt.semrush.net
 profile-mysql-backup.semrush.net
 prometheus.semrush.net
@@ -707,6 +708,7 @@ rc-white-semrush.semrush.net
 rc-white.semrush.net
 rc.backend.kmt.semrush.net
 rc.kmt.semrush.net
+rc.kwm.semrush.net
 rc.notes.semrush.net
 rc.semrush.net
 rc.sensor.semrush.net

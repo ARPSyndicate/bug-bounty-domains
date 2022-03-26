@@ -13,6 +13,7 @@ level-gateway-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CO
 matchmaking-gateway-loadtest2.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 mmbetaapi.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 nats-proxy-testci.fallguys-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
+server-grpc-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.64.0.0/10
 service-gateway-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 service-login-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 20.48.0.0/12
 testhost-rest-testci.catapult-dev.oncatapult.com AS8075 AS8075 - MICROSOFT CORPORATION US 51.104.0.0/15

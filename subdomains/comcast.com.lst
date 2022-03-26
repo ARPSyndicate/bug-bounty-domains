@@ -5285,6 +5285,12 @@ cafedb-wc-p01v2.cable.comcast.com
 cafedb-wc-p01v3.cable.comcast.com
 cafedep-po-2p.cable.comcast.com
 cafedep-po-3p.cable.comcast.com
+cafefe-po-1p.slb.comcast.com
+cafefe-po.cable.comcast.com
+cafefe-wc-1p.slb.comcast.com
+cafefe-wc.cable.comcast.com
+cafeflowengine-1p.gslb4.comcast.com
+cafeflowengine.cable.comcast.com
 cafeitg-po-a.cable.comcast.com
 cafeitg-po-b.cable.comcast.com
 cafeitg-soak.cable.comcast.com
@@ -26630,6 +26636,7 @@ isshare-po-01p.cable.comcast.com
 isspapps-wc-p01.cable.comcast.com
 issuer-dev.sat-ng.comcast.com
 issuer-east.sat-ng.comcast.com
+issuer-east2.sat-ng.comcast.com
 issuer-ec2-stage-east.sat-ng.comcast.com
 issuer-ec2-stage-west.sat-ng.comcast.com
 issuer-ec2-stage.sat-ng.comcast.com
@@ -29054,6 +29061,7 @@ malownpsmap01.cable.comcast.com
 malowntpmdquta1.cable.comcast.com
 malowntx-api-mt-01.cable.comcast.com
 malowntx-appmonitor.cable.comcast.com
+malowntx-cvl-etldev.cable.comcast.com
 malowntx-cvl-test.cable.comcast.com
 malowntx-enact-psnb.cable.comcast.com
 malowntx-enact-stage.cable.comcast.com

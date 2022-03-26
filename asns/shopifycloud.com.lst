@@ -621,6 +621,7 @@ flow-connectors.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.138.224.0/
 flow-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.227.64.0/20
 flow-tracing-prototypes-2a4d.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 35.227.64.0/20
 flow-tracing-prototypes.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
+flow-trivia.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20
 flow-web-staging.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.75.112.0/20
 flow-web.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.138.224.0/20
 flow.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.138.224.0/20
@@ -1062,11 +1063,16 @@ orchestrator-vitess-sandbox-api.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US
 orchestrator-vitess-sandbox.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.236.0.0/14
 orchestrator.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 orderprinter.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.139.0.0/16
-org-admin-web-staging-2.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.64.0.0/14
-org-admin-web-staging-3.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.64.0.0/14
+org-admin-web-staging-1g8h.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.121.16.0/20
+org-admin-web-staging-2.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 org-admin-web-staging-3.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 org-admin-web-staging-4.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
 org-admin-web-staging-5.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.120.0.0/14
+org-admin-web-staging-7won.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
+org-admin-web-staging-c0n6.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+org-admin-web-staging-ezky.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 34.68.0.0/14
+org-admin-web-staging-pz8w.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
+org-admin-web-staging-sxyc.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.66.160.0/20
 org-admin-web-staging.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.224.0.0/14
 org-admin-web.shopifycloud.com AS15169 AS15169 - GOOGLE LLC US 35.196.0.0/15
 os2-sample-app.shopifycloud.com AS396982 AS396982 - GOOGLE LLC US 34.74.0.0/20

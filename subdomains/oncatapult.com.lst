@@ -289,6 +289,7 @@ player-gateway-unstable.bagpipes-dev.oncatapult.com
 prod.cms.oncatapult.com
 qa.accounts-dev.oncatapult.com
 server-browser-ben.bagpipes-proto.oncatapult.com
+server-grpc-testci.catapult-dev.oncatapult.com
 serverstats.tools.oncatapult.com
 service-analytics-testci.catapult-dev.oncatapult.com
 service-gateway-testci.catapult-dev.oncatapult.com
