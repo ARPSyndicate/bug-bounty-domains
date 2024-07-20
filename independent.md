@@ -49,9 +49,9 @@
 | [erasure.world](https://api.subdomain.center/?domain=erasure.world) | NUMERAI | PUBLIC-BBP | https://docs.numer.ai/tournament/bounties |
 | [numer.ai](https://api.subdomain.center/?domain=numer.ai) | NUMERAI | PUBLIC-BBP | https://docs.numer.ai/tournament/bounties |
 | [railway.app](https://api.subdomain.center/?domain=railway.app) | RAILWAY-APP | PUBLIC-BBP | https://railway.app/bug-bounty |
-| [freepeopledirectory.com](https://api.subdomain.center/?domain=freepeopledirectory.com) | SPOKEO | PUBLIC-BBPhttps://www.spokeo.com/bug-bounty |
-| [spokeo.com](https://api.subdomain.center/?domain=spokeo.com) | SPOKEO | PUBLIC-BBPhttps://www.spokeo.com/bug-bounty |
-| [spokeoaffiliates.com](https://api.subdomain.center/?domain=spokeoaffiliates.com) | SPOKEO | PUBLIC-BBPhttps://www.spokeo.com/bug-bounty |
+| [freepeopledirectory.com](https://api.subdomain.center/?domain=freepeopledirectory.com) | SPOKEO | PUBLIC-BBP | https://www.spokeo.com/bug-bounty |
+| [spokeo.com](https://api.subdomain.center/?domain=spokeo.com) | SPOKEO | PUBLIC-BBP | https://www.spokeo.com/bug-bounty |
+| [spokeoaffiliates.com](https://api.subdomain.center/?domain=spokeoaffiliates.com) | SPOKEO | PUBLIC-BBP | https://www.spokeo.com/bug-bounty |
 | [ajila.com](https://api.subdomain.center/?domain=ajila.com) | SWISSCOM | PUBLIC-BBP | https://github.com/swisscom/bugbounty |
 | [akupunkturvergleich.ch](https://api.subdomain.center/?domain=akupunkturvergleich.ch) | SWISSCOM | PUBLIC-BBP | https://github.com/swisscom/bugbounty |
 | [apotheken-vergleich.ch](https://api.subdomain.center/?domain=apotheken-vergleich.ch) | SWISSCOM | PUBLIC-BBP | https://github.com/swisscom/bugbounty |
