@@ -10,7 +10,7 @@
 <a href="https://hackerone.com/users/sign_in"><img src="./images/hackerone.jpg" height=100>
 <a href="https://www.bugcrowd.com/login/"><img src="./images/bugcrowd.png" height=100>
 <a href="https://login.intigriti.com/account/login"><img src="./images/intigriti.jpg" height=100>
-<a href="https://auth.standoff365.com/en-US/account/login/"><img src="./images/standoff.jpeg" height=100>
+<a href="https://auth.standoff365.com/en-US/account/login/?partner_name=StandoffIndia2024"><img src="./images/standoff.jpeg" height=100>
 <a href="https://yeswehack.com/auth/login"><img src="./images/yeswehack.jpeg" height=100>
 <br>
 <br>
@@ -20,7 +20,7 @@
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/hackerone.md">HACKERONE</a></td><td>420</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/bugcrowd.md">BUGCROWD</a></td><td>121</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/intigriti.md">INTIGRITI</a></td><td>44</td></tr>
-<tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/standoff365.md">STANDOFF365</a></td><td>52</td></tr>
+<tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/standoff365.md">STANDOFF365</a></td><td>243</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/yeswehack.md">YESWEHACK</a></td><td>21</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/independent.md">INDEPENDENT</a></td><td>243</td></tr>
 </table><b>This data may / may not be accurate or complete.
