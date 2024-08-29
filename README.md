@@ -4,7 +4,7 @@
 
 <div id='badges'><a href='https://www.linkedin.com/company/arpsyndicate'>
 <img src='https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/></a> <a href='https://twitter.com/arpsyndicate'><img src='https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white' alt='X'/></a> <a href='https://t.me/arpsyndicate'><img src='https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'/></a></div><h1>BUG BOUNTY DOMAINS</h1>
-<h3>Domains belonging to the most reputed public bug bounty programs.</h3><table>
+<h3>Domains belonging to the most reputed public bug bounty programs.</h3><h4>[NOT FOR NON-MONETARY OR PRIVATE PROGRAMS]</h4><table>
 <a href="https://bugbase.ai/login"><img src="./images/bugbase.png" height=100>
 <a href="https://dashboard.hackenproof.com/login"><img src="./images/hackenproof.png" height=100>
 <a href="https://hackerone.com/users/sign_in"><img src="./images/hackerone.jpg" height=100>
@@ -20,7 +20,7 @@
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/hackerone.md">HACKERONE</a></td><td>420</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/bugcrowd.md">BUGCROWD</a></td><td>121</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/intigriti.md">INTIGRITI</a></td><td>44</td></tr>
-<tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/standoff365.md">STANDOFF365</a></td><td>243</td></tr>
+<tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/standoff365.md">STANDOFF365</a></td><td>241</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/yeswehack.md">YESWEHACK</a></td><td>21</td></tr>
 <tr><td><a href="https://github.com/ARPSyndicate/bug-bounty-domains/blob/master/independent.md">INDEPENDENT</a></td><td>243</td></tr>
 </table><b>This data may / may not be accurate or complete.
